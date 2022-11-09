@@ -27,7 +27,7 @@ body img {
     object-fit: cover;
 }
 
-/* Second & Thrid Images */
+/* Second & Thrid Image */
 #content > img {
    object-fit:contain; 
    padding-bottom: 15px;
